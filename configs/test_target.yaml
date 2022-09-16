@@ -1,0 +1,2 @@
+defaults:
+  - datamodule: test.yaml
